@@ -1,10 +1,10 @@
 # Learner Worksheet
 
-**Course:** Mastering Semiconductor Key Modules for Enhanced CMOS Process Integration and Device Performance  
-**Course code:** TGS-2024051248  
-**Package:** v8.0 · 20 August 2026  
-**Activity:** 4 — Integrate Film Deposition and CMP  
-**Alignment:** LO1 · K1, A2, A4  
+**Course:** Mastering Semiconductor Key Modules for Enhanced CMOS Process Integration and Device Performance<br>
+**Course code:** TGS-2024051248<br>
+**Package:** v9.0 · 20 August 2026<br>
+**Activity:** 4 — Integrate Film Deposition and CMP<br>
+**Alignment:** LO1 · K1, A2, A4<br>
 **Duration:** 60 minutes
 
 

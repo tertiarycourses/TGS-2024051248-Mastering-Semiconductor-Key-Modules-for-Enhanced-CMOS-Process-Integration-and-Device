@@ -1,10 +1,10 @@
 # Learner Worksheet
 
-**Course:** Mastering Semiconductor Key Modules for Enhanced CMOS Process Integration and Device Performance  
-**Course code:** TGS-2024051248  
-**Package:** v8.0 · 20 August 2026  
-**Activity:** 3 — Balance Implantation and Thermal Budget  
-**Alignment:** LO1 · K1, A2, A3  
+**Course:** Mastering Semiconductor Key Modules for Enhanced CMOS Process Integration and Device Performance<br>
+**Course code:** TGS-2024051248<br>
+**Package:** v9.0 · 20 August 2026<br>
+**Activity:** 3 — Balance Implantation and Thermal Budget<br>
+**Alignment:** LO1 · K1, A2, A3<br>
 **Duration:** 60 minutes
 
 

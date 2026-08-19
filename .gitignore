@@ -8,6 +8,7 @@ reference/
 build/
 tmp/
 QA-*.md
+courseware/COURSEWARE-QA-*.md
 courseware/assets/
 courseware/archive/
 ~$*

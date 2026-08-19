@@ -1,10 +1,10 @@
 # Acceptance Checklist
 
-**Course:** Mastering Semiconductor Key Modules for Enhanced CMOS Process Integration and Device Performance  
-**Course code:** TGS-2024051248  
-**Package:** v8.0 · 20 August 2026  
-**Activity:** 7 — Respond to an SPC CD Excursion  
-**Alignment:** LO2 · K2, A3, A4, A5  
+**Course:** Mastering Semiconductor Key Modules for Enhanced CMOS Process Integration and Device Performance<br>
+**Course code:** TGS-2024051248<br>
+**Package:** v9.0 · 20 August 2026<br>
+**Activity:** 7 — Respond to an SPC CD Excursion<br>
+**Alignment:** LO2 · K2, A3, A4, A5<br>
 **Duration:** 90 minutes
 
 

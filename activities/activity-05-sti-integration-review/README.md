@@ -1,10 +1,10 @@
 # Activity 5 Guide
 
-**Course:** Mastering Semiconductor Key Modules for Enhanced CMOS Process Integration and Device Performance  
-**Course code:** TGS-2024051248  
-**Package:** v8.0 · 20 August 2026  
-**Activity:** 5 — Review an STI Integration Flow  
-**Alignment:** LO2 · A1, A2, A4  
+**Course:** Mastering Semiconductor Key Modules for Enhanced CMOS Process Integration and Device Performance<br>
+**Course code:** TGS-2024051248<br>
+**Package:** v9.0 · 20 August 2026<br>
+**Activity:** 5 — Review an STI Integration Flow<br>
+**Alignment:** LO2 · A1, A2, A4<br>
 **Duration:** 75 minutes
 
 

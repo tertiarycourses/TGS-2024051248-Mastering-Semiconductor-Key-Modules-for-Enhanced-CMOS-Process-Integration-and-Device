@@ -1,7 +1,7 @@
 # Mastering Semiconductor Key Modules for Enhanced CMOS Process Integration and Device Performance
 
 [![WSQ](https://img.shields.io/badge/WSQ-TGS--2024051248-0F8F70)](https://www.tertiarycourses.com.sg/wsq-mastering-semiconductor-key-modules-for-enhanced-cmos-process-integration-and-device-performance.html)
-[![Version](https://img.shields.io/badge/courseware-v8.0-1F6FEB)](courseware/)
+[![Version](https://img.shields.io/badge/courseware-v9.0-1F6FEB)](courseware/)
 
 Highly visual two-day WSQ courseware for CMOS process modules, integration, device/reliability performance, SPC, packaging and future IC technologies.
 
@@ -9,7 +9,8 @@ Highly visual two-day WSQ courseware for CMOS process modules, integration, devi
 
 ## Package
 
-- Master Trainer Slides (PPTX and PDF), preserving all legacy technical diagrams and pictures.
+- Master Trainer Slides (139-slide PPTX and PDF) rebuilt to the Master Mobile Photography reference design system.
+- Five rights-safe Imagegen visuals plus aspect-safe legacy technical exhibits; no image is stretched to fit.
 - Learner Guide (DOCX and PDF) with detailed step-by-step procedures.
 - Lesson Plan (DOCX and PDF) aligned to the final slide map.
 - Eight individual activity folders with printable Markdown/PDF resources.
@@ -28,7 +29,7 @@ Highly visual two-day WSQ courseware for CMOS process modules, integration, devi
 | 7 | Respond to an SPC CD Excursion | LO2 · K2 · A3-A5 |
 | 8 | Run a Future-Technology Integration Gate | LO2 · K1-K2 · A2-A5 |
 
-Each folder contains a detailed guide, worksheet, checklist and evidence record, with same-basename PDF copies.
+Each folder contains a detailed guide, worksheet, checklist and evidence record, with same-basename PDF copies. Procedures stay in the Learner Guide and activity packs; the slides remain concept-led.
 
 ## Learner Use
 

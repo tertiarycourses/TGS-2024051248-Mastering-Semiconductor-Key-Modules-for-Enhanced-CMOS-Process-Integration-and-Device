@@ -1,6 +1,6 @@
 # Course Activities
 
-Mastering Semiconductor Key Modules for Enhanced CMOS Process Integration and Device Performance · TGS-2024051248 · v8.0
+Mastering Semiconductor Key Modules for Enhanced CMOS Process Integration and Device Performance · TGS-2024051248 · v9.0
 
 ## Activity 1: Build a CMOS Process Module Map
 
