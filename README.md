@@ -5,6 +5,15 @@
 
 Highly visual two-day WSQ courseware for CMOS process modules, integration, device/reliability performance, SPC, packaging and future IC technologies.
 
+| Course detail | Information |
+|---|---|
+| Course code | `TGS-2024051248` |
+| Programme | WSQ (SkillsFuture Singapore) |
+| Duration | 2 days, 16 hours (including 2-hour assessment) |
+| Registration | [View course details and register](https://www.tertiarycourses.com.sg/wsq-mastering-semiconductor-key-modules-for-enhanced-cmos-process-integration-and-device-performance.html) |
+| Funding | Up to 70% WSQ course fee funding for eligible learners (50% baseline for Singapore Citizens/PRs aged 21+; 70% for Singapore Citizens aged 40+ under MCES or SME-sponsored learners). Eligibility and terms apply - see the course page. |
+| Provider | Tertiary Infotech Academy Pte Ltd |
+
 ![Courseware cover](screenshot.png)
 
 ## Package
